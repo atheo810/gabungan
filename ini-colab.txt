@@ -6,3 +6,4 @@ coba coba dulu ah
 twd
 
 ini adalah percobaah push dari git remote
+git remote ke 2
